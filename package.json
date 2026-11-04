@@ -1,0 +1,10 @@
+{
+  "name": "passport-scanner-management-system",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Phase 1: Google Apps Script API + Google Sheets, static HTML/JS front end",
+  "scripts": {
+    "test": "node --test dev/test-backend.js",
+    "dev": "node dev/server.js"
+  }
+}
